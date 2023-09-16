@@ -1,3 +1,5 @@
 # New project
 
-This project was creacted from local systam
+This project was created from local systam
+
+created by Mclukesh KumawatS
